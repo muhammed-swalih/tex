@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.171798f1.css",
+    "main.js": "/static/js/main.75e8b324.js",
+    "static/media/ghost.jpg": "/static/media/ghost.b3e3cdd2a924df021a8f.jpg",
+    "static/media/robo-faces.jpg": "/static/media/robo-faces.e245cf1603ff6410e420.jpg",
+    "static/media/robot.jpg": "/static/media/robot.93824226684fb2d9b17a.jpg",
+    "static/media/texture.png": "/static/media/texture.15629c1699b7d12af565.png",
+    "static/media/dabz.jpg": "/static/media/dabz.25a058453cdfdc93e8b5.jpg",
+    "static/media/red-robo.jpg": "/static/media/red-robo.faa5800e008691d6d2a3.jpg",
+    "static/media/texarita.png": "/static/media/texarita.bec32765767441c278b0.png",
+    "static/media/mes-logo.png": "/static/media/mes-logo.4255fe6f78b5bf359932.png",
+    "index.html": "/index.html",
+    "main.171798f1.css.map": "/static/css/main.171798f1.css.map",
+    "main.75e8b324.js.map": "/static/js/main.75e8b324.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.171798f1.css",
+    "static/js/main.75e8b324.js"
+  ]
+}
